@@ -1,0 +1,29 @@
+git init -tworze reposytorium
+git status
+git config --global user.name "Kasia Michalska"
+git config --global user.email "wrobellkatarzyna@gmail.com"
+git config --global core.editor
+git log
+git log --oneline
+git restore/checkout (przywroc plik)
+git commit -a / git commit --all (skomituj wszystkie pliki sledzone, j
+esli jakis plik jest niesledzony to go nie doda, w ten sposob nie trzeba wpisywac komendy git add)
+git clone
+git diff (porownanie katalogu roboczego ze stage area)
+git diff 847564765745 nazwa-pliku (porownanie plikow w roznych commitach)
+
+git rm fileName (usunie z katalogu roboczego i ze staging area)
+git mv fileName NewName
+
+q
+
+cd
+cd ..
+cd ~
+cat (wyswietl zawartosc pliku)
+echo (stworz plik)
+mkdir (stworz folder)
+cls/clear
+dir/ls
+
+blablaaaa
