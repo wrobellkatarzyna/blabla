@@ -26,4 +26,4 @@ mkdir (stworz folder)
 cls/clear
 dir/ls
 
-
+blablaaaa
